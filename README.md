@@ -169,9 +169,7 @@ need more ? create an issue...
 
 ## Contributors ✨
 [Code Credit to  this Github](https://github.com/WHATDOESTHEFOXSAY2U)
-<a href="https://github.com/n4ze3m/dialoqbase/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=n4ze3m/dialoqbase" />
-</a>
+
 
 Interested in contributing? Check out the [contributing guide](CONTRIBUTION.md).
 

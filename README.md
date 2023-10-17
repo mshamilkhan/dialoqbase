@@ -20,8 +20,6 @@ Here's a demo of how it works (v0.0.23):
 
 </div>
 
-Want to check more demo videos? Follow me on [Twitter](https://twitter.com/n4ze3m) or [BlueSky](https://bsky.app/profile/n4ze3m.com) for more updates.
-
 ## Quick Deployments 🚀
 
 ### Railway with Supabase 
@@ -170,7 +168,7 @@ need more ? create an issue...
 need more ? create an issue...
 
 ## Contributors ✨
-
+[Code Credit to  this Github](https://github.com/WHATDOESTHEFOXSAY2U)
 <a href="https://github.com/n4ze3m/dialoqbase/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=n4ze3m/dialoqbase" />
 </a>

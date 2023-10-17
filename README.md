@@ -1,4 +1,4 @@
-<h1 align="center">⚡Dialoqbase ⚡</h1>
+<h1 align="center">⚡PDF Agent ⚡</h1>
 <p align="center">
  Create chatbots with ease
 </p>
@@ -10,13 +10,13 @@
   [![License: MIT](https://img.shields.io/github/license/n4ze3m/dialoqbase)](https://github.com/n4ze3m/dialoqbase/blob/master/LICENSE)
 </div>
 
-Dialoqbase is an open-source application designed to facilitate the creation of custom chatbots using a personalized knowledge base. The application leverages advanced language models to generate accurate and context-aware responses. Additionally, it utilizes PostgreSQL, a robust relational database management system, for efficient vector search operations and for storing the knowledge base.
+PDF Agent is an open-source application designed to facilitate the creation of custom chatbots using a personalized knowledge base. The application leverages advanced language models to generate accurate and context-aware responses. Additionally, it utilizes PostgreSQL, a robust relational database management system, for efficient vector search operations and for storing the knowledge base.
 
 Here's a demo of how it works (v0.0.23):
 
 <div align="center">
 
-[![DialoqBase Demo](https://img.youtube.com/vi/D3X3ZIYsT_w/0.jpg)](https://www.youtube.com/watch?v=D3X3ZIYsT_w)
+[![PDF Agent Demo](https://img.youtube.com/vi/D3X3ZIYsT_w/0.jpg)](https://www.youtube.com/watch?v=D3X3ZIYsT_w)
 
 </div>
 
@@ -105,7 +105,7 @@ _Important: After the first login, remember to change the default credentials._
 
 ## Disclaimer ⚠️
 
-Dialoqbase is a side project and is not ready for production. It is still in the early stages of development and may contain bugs and security issues. Use it at your own risk. _Breaking changes may occur at any time without prior notice._
+PDF Agent is a side project and is not ready for production. It is still in the early stages of development and may contain bugs and security issues. Use it at your own risk. _Breaking changes may occur at any time without prior notice._
 
 ## Roadmap 🗺️
 
@@ -173,15 +173,6 @@ need more ? create an issue...
 
 Interested in contributing? Check out the [contributing guide](CONTRIBUTION.md).
 
-## Sponsors 💖
-
-<p>
-  <a href="https://flogesoft.com/?utm_source=dialoqbase&utm_medium=sponsor&utm_campaign=dialoqbase">
-    <img src="https://flogesoft.com/images/floges_sponsored.svg" width="150"
-    height="50"
-     />
-  </a>
-</p>
 
 ## License 📝
 
